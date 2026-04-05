@@ -1,5 +1,7 @@
 # SqlmodelFlet app
 
+![Logo](assets/logo.png)
+
 ## Run the app
 
 ### uv
