@@ -1,6 +1,8 @@
 # SqlmodelFlet app
 
-![Logo](assets/logo.png)
+<p align="center">
+  <img src="assets/logo.png" width="200">
+</p>
 
 ## Run the app
 
